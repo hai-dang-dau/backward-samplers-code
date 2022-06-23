@@ -1,0 +1,6 @@
+config_file,fk_type,smooth_mode,algo,k,N_tilde,N,seed_execution,nruns_per_core,ncores,maxmem,json_maxsize,ESSrmin,resampling,skeleton_converter,n_highlight,highlight_every
+guarniero_offline_sigma_small,Bootstrap,offline,reject,NaN,1,1000,5539,3,50,4000,50,1.0,systematic,identity,1,1
+guarniero_offline_sigma_small,Bootstrap,offline,mcmc_indep,1,1,1000,5539,3,50,4000,50,1.0,systematic,identity,1,1
+guarniero_offline_sigma_small,GuidedPF,offline,dummy,NaN,1,1000,5539,3,50,4000,50,1.0,systematic,identity,1,1
+guarniero_offline_sigma_small,GuidedPF,offline,reject,NaN,1,1000,5539,3,50,4000,50,1.0,systematic,identity,1,1
+guarniero_offline_sigma_small,GuidedPF,offline,mcmc_indep,1,1,1000,5539,3,50,4000,50,1.0,systematic,identity,1,1

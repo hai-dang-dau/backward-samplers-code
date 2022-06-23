@@ -1,0 +1,7 @@
+{
+  "seed_model": 4711,
+  "model_class": "Guarniero",
+  "d": 2,
+  "sigma_y": 2.0,
+  "T": 500
+}

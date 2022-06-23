@@ -1,0 +1,9 @@
+{
+  "seed_model": 4711,
+  "model_class": "HierarchicalLike",
+  "d": 3,
+  "rho": 0.5,
+  "sigma": 1.0,
+  "T": 6,
+  "t_cutoff": 3
+}

@@ -1,0 +1,22 @@
+{
+  "model_class": "user_friendly_ssm_creator",
+  "seed_model": 1234,
+  "x_star": [100, 100],
+  "nat_death_rates": [0.2],
+  "deterministic_slowdown": 0.25,
+  "dynamic_noise0_std": 0.1,
+  "dynamic_noise1_std": 0.1,
+  "dynamic_noise_corr": 0.5,
+  "init_mean": [100, 100],
+  "init_noise0_std": 10,
+  "init_noise1_std": 10,
+  "init_noise_corr": 0.5,
+  "log_obs_noise0_std": 0.2,
+  "log_obs_noise1_std": 0.2,
+  "log_obs_noise_corr": 0.5,
+  "N_dcr": 100,
+  "T": 5,
+  "t_cutoff": 3,
+  "verbose": false,
+  "data": null
+}
