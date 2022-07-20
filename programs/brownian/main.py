@@ -29,4 +29,4 @@ class GaussianSmoothingExperiment(SmoothingExperiment):
             raise ValueError
 
 if __name__ == '__main__':
-    start_workflow('./programs/brownian/output/scape goat.csv', GaussianSmoothingExperiment, verbose=True)
+    start_workflow('./programs/brownian/output/run_test.csv', GaussianSmoothingExperiment, verbose=True)

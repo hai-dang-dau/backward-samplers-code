@@ -20,4 +20,4 @@ class ConstrainedBrownianSmoothingExperiment(SmoothingExperiment):
         return './programs/constrained_brownian/config/'
 
 if __name__ == '__main__':
-    start_workflow('./programs/constrained_brownian/output/scape goat.csv', ConstrainedBrownianSmoothingExperiment, verbose=True)
+    start_workflow('./programs/constrained_brownian/output/run_full.csv', ConstrainedBrownianSmoothingExperiment, verbose=True)

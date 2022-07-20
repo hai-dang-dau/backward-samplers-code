@@ -1,0 +1,2 @@
+seed_execution,nruns_per_core,ncores,maxmem,json_maxsize,config_file,N,ESSrmin,resampling,skeleton_converter,smooth_mode,algo,ancestor_coupling_mode,n_highlight,highlight_every
+66776,2,2,3596,500,simple_start,100,1.0,systematic,NaN,intractable,intractable,Adjacent,1,1

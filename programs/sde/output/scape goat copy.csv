@@ -1,5 +1,0 @@
-seed_execution,nruns_per_core,ncores,maxmem,json_maxsize,config_file,N,ESSrmin,resampling,skeleton_converter,smooth_mode,algo,ancestor_coupling_mode,n_highlight,highlight_every
-66776,1,50,4096,500,simple_start,100,1.0,systematic,identity,online,dummy,NaN,1,1
-66776,1,50,4096,500,simple_start,100,1.0,systematic,NaN,intractable,intractable,Adjacent,1,1
-66776,1,50,4096,500,real_start,1000,1.0,systematic,identity,online,dummy,NaN,1,1
-66776,1,50,4096,500,real_start,1000,1.0,systematic,NaN,intractable,intractable,Adjacent,1,1

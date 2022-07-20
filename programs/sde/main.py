@@ -24,4 +24,4 @@ class LotkaVolterraSDEExperiment(SmoothingExperiment):
         return dict()
 
 if __name__ == '__main__':
-    start_workflow('./programs/sde/output/scape goat.csv', LotkaVolterraSDEExperiment, True)
+    start_workflow('./programs/sde/output/run_test.csv', LotkaVolterraSDEExperiment, True)
